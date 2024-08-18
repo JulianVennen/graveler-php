@@ -1,0 +1,19 @@
+{
+    "name": "julian/graveler-php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julian Vennen",
+            "email": "julian@vennen.me"
+        }
+    ],
+    "require": {
+        "aternos/taskmaster": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
